@@ -14,7 +14,10 @@ Xwalk is a pair of glasses that help the blind cross the street. It has two prim
 I needed to be able to see the surroundings so I chose to use the Raspberry Pi Zero W for its size and Wifi capabilities. For the walk signal recognition, I used OpenCV2 to train the recognizer. For the assistance part, I used the Google Vision API and ultrasensor to see if there is a person nearby to help
 
 # Final Product 
-![Selfie](selfie.png)
-![Glasses](glasses.png)
-
+<p align="center"> 
+<img src="selfie">
+</p>
+<p align="center">
+<img src="glasses.png">
+</p>
 
