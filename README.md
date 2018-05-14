@@ -15,7 +15,7 @@ I needed to be able to see the surroundings so I chose to use the Raspberry Pi Z
 
 # Final Product 
 <p align="center"> 
-<img src="selfie">
+<img src="selfie.png">
 </p>
 <p align="center">
 <img src="glasses.png">
